@@ -9,5 +9,6 @@ The current SQL projects found here are:
 
 	2) Solar potential query 
 		I was very interested in doing something very different and thus decided to do some 
-		digging into this sloar potential project for the USA. It shows the potential solar installations with regard to adequate sunlight, roof space availability and existing
-		installs.  
+		digging into this sloar potential project for the USA. It shows the potential 
+		solar installations with regard to adequate sunlight, roof space availability 
+		and existing installs.  
